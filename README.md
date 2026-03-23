@@ -1,5 +1,4 @@
-"# Transfer-Learning-and-Transformers-Lab" 
-echo "# Transfer-Learning-and-Transformers-Lab" >> README.md
+
 
 You may choose to perform classification on any sequential dataset (text, audio, etc.) or image dataset you like using a pre-trained transformer. For example, you could choose a text dataset. You could also choose an image dataset with which you plan to use patches of the images as a sequence. Or time-series data. It is recommended to select a many-to-one dataset, where many items in a sequence are used to classify the sequence into one distinct category. Several examples are given below that might be possible. However, it is up to you to choose which data you would like to analyze. A general guideline rubric is also given.
 
